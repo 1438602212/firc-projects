@@ -2,6 +2,17 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov26+django+deepseek的中草药识别系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZlwaw==">下载</a></td></tr>
+<tr><td>基于yolov8+django+deepseek的舌头舌象舌苔疾病诊断系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZlsaQ==">下载</a></td></tr>
+<tr><td>基于yolov8+django+deepseek的水稻叶子病害检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZhpaw==">下载</a></td></tr>
+<tr><td>基于yolov8+django+deepseek的输电线路绝缘子缺陷检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZdrZw==">下载</a></td></tr>
+<tr><td>基于yolov11+django+deepseek的学生课堂行为检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZZvZg==">下载</a></td></tr>
+<tr><td>基于yolov11+django+deepseek的血液细胞红白细胞血小板检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblJ9wbQ==">下载</a></td></tr>
+<tr><td>基于yolov11+django+deepseek的苹果叶子病害检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblJ5xZg==">下载</a></td></tr>
+<tr><td>基于yolov11+django+deepseek的脑肿瘤检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblJ5vZw==">下载</a></td></tr>
+<tr><td>基于yolo+django+deepseek打造一个精美的通用目标检测系统带登录界面支持yolov8 yolov10 yolo11 yolov12 yolov13 yolo26系列框架</td><td><a href="https://mbd.pub/o/bread/YZWblJxtbA==">下载</a></td></tr>
+<tr><td>基于yolo+pyqt5+deepseek打造一个精美的通用目标检测系统支持yolov8 yolov10 yolo11 yolov12 yolov13 yolo26系列框架源码</td><td><a href="https://mbd.pub/o/bread/YZWbk59qaA==">下载</a></td></tr>
+<tr><td>基于yolo+flask+deepseek打造一个精美的通用目标检测系统带登录界面支持yolov8 yolov10 yolo11 yolov12 yolov13 yolo26系列框架源码</td><td><a href="https://mbd.pub/o/bread/YZWbk51vbA==">下载</a></td></tr>
 <tr><td>基于yolov8的无人机视角夜间车辆检测识别系统python源码+onnx模型+评估指标曲线+精美GUI界面.7z</td><td><a href="https://mbd.pub/o/bread/YZWamppxag==">下载</a></td></tr>
 <tr><td>基于yolov8的夜间车辆检测识别系统python源码+onnx模型+评估指标曲线+精美GUI界面.7z</td><td><a href="https://mbd.pub/o/bread/YZWamppwZQ==">下载</a></td></tr>
 <tr><td>基于yolov11实现车辆速度估计+距离测量+轨迹跟踪+区域进出统计完整python源码+模型+测试视频+项目说明.7z</td><td><a href="https://mbd.pub/o/bread/YZWal5lqaQ==">下载</a></td></tr>
@@ -490,3 +501,4 @@ C++项目源码汇总
 <tr><td>C++ opencv部署yolov8旋转框目标检测源码</td><td><a href="https://download.csdn.net/download/FL1623863129/88783808">下载</a></td></tr>
 </tbody>
 </table>
+
