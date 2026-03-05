@@ -2,6 +2,15 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov26+django+deepseek的安全帽反光衣检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblp1vaA==">下载</a></td></tr>
+<tr><td>基于yolov8+django+deepseek的西红柿番茄叶子病害检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblpxvaQ==">下载</a></td></tr>
+<tr><td>基于yolov11+django+deepseek的农业害虫检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblpxrag==">下载</a></td></tr>
+<tr><td>基于yolov11+django+deepseek的农业植物叶子病害农作物病虫害检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblphvag==">下载</a></td></tr>
+<tr><td>基于yolov8+django+deepseek的垃圾分类识别系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZ1uZA==">下载</a></td></tr>
+<tr><td>基于yolov11+django+deepseek的野生动物识别系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZxtbQ==">下载</a></td></tr>
+<tr><td>基于yolov8+django+deepseek的小麦叶子病害检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZtuZg==">下载</a></td></tr>
+<tr><td>基于yolov26+django+deepseek的眼部疾病检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZpxaw==">下载</a></td></tr>
+<tr><td>基于yolov8+django+deepseek的茶叶叶片病害检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZpuaA==">下载</a></td></tr>
 <tr><td>基于yolov26+django+deepseek的中草药识别系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZlwaw==">下载</a></td></tr>
 <tr><td>基于yolov8+django+deepseek的舌头舌象舌苔疾病诊断系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZlsaQ==">下载</a></td></tr>
 <tr><td>基于yolov8+django+deepseek的水稻叶子病害检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblZhpaw==">下载</a></td></tr>
@@ -501,4 +510,5 @@ C++项目源码汇总
 <tr><td>C++ opencv部署yolov8旋转框目标检测源码</td><td><a href="https://download.csdn.net/download/FL1623863129/88783808">下载</a></td></tr>
 </tbody>
 </table>
+
 
