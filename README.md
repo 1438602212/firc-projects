@@ -2,6 +2,11 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov11+django+deepseek的水下鱼类检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWbmZhvZQ==">下载</a></td></tr>
+<tr><td>基于yolov11+django+deepseek的交通标志识别系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWbmJxwaw==">下载</a></td></tr>
+<tr><td>基于yolov8+django+deepseek的人脸表情识别检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWbl5xpZQ==">下载</a></td></tr>
+<tr><td>基于yolov11+django+deepseek的NEU-DET钢材表面缺陷检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblp9xZA==">下载</a></td></tr>
+<tr><td>基于yolov26+django+deepseek的玉米叶子病害检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblp9uZg==">下载</a></td></tr>
 <tr><td>基于yolov26+django+deepseek的安全帽反光衣检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblp1vaA==">下载</a></td></tr>
 <tr><td>基于yolov8+django+deepseek的西红柿番茄叶子病害检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblpxvaQ==">下载</a></td></tr>
 <tr><td>基于yolov11+django+deepseek的农业害虫检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWblpxrag==">下载</a></td></tr>
