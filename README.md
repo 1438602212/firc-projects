@@ -453,6 +453,7 @@ C++项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[cmake]基于C++实现yolov5-seg实例分割tensorrt模型部署演示源码</td><td><a href="https://mbd.pub/o/bread/YZWclZZsaA==">下载</a></td></tr>
 <tr><td>[C++][cmake]使用C++部署yolo26目标检测的tensorrt模型源码</td><td><a href="https://mbd.pub/o/bread/YZWamZ9uag==">下载</a></td></tr>
 <tr><td>[cmake]C++使用yolo26目标检测结合bytetrack实现目标追踪源码</td><td><a href="https://mbd.pub/o/bread/YZWamZ5xZA==">下载</a></td></tr>
 <tr><td>[C++][cmake]基于C++在windows上onnxruntime+opencv部署yolo26-obb的旋转框检测onnx模型源码</td><td><a href="https://mbd.pub/o/bread/YZWamZ5qZA==">下载</a></td></tr>
