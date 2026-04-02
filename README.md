@@ -2,6 +2,9 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolo26+pyqt5实现多个注意力机制的102种花卉识别系统python源码+数据集+训练好模型+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWck5trbA==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的药片胶囊计数系统python源码+pytorch模型+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWck51yaQ==">下载</a></td></tr>
+<tr><td>基于YOLOv11姿态检测的AI健身助手python源码+模型+GUI界面+详细说明文档.7z</td><td><a href="https://mbd.pub/o/bread/YZWck5lwbA==">下载</a></td></tr>
 <tr><td>基于yolov8+pyqt5实现的水尺图像识别与水深计算系统python源码+训练好的模型+项目说明</td><td><a href="https://mbd.pub/o/bread/YZWckptwaQ==">下载</a></td></tr>
 <tr><td>基于yolov11+django+deepseek的水下鱼类检测系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWbmZhvZQ==">下载</a></td></tr>
 <tr><td>基于yolov11+django+deepseek的交通标志识别系统带登录界面python源码+onnx模型+精美web界面</td><td><a href="https://mbd.pub/o/bread/YZWbmJxwaw==">下载</a></td></tr>
@@ -288,6 +291,10 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于C#winform部署APISR算法的onnx模型实现动漫图片超分辨率无损放大模糊图片变清晰</td><td><a href="https://mbd.pub/o/bread/YZWclZZpaA==">下载</a></td></tr>
+<tr><td>基于C#winform部署ESPCN的onnx模型实现超分辨率图片无损放大模糊图片变清晰</td><td><a href="https://mbd.pub/o/bread/YZWclJxqaA==">下载</a></td></tr>
+<tr><td>基于C#winform部署BEN2的onnx模型实现前景分割源码.7z</td><td><a href="https://mbd.pub/o/bread/YZWclJhwaQ==">下载</a></td></tr>
+<tr><td>基于C#winform部署RealESRGAN的onnx模型实现超分辨率图片无损放大模糊图片变清晰.7z</td><td><a href="https://mbd.pub/o/bread/YZWclJhtaQ==">下载</a></td></tr>
 <tr><td>[C#][winform]sam2分割万物部署onnx模型一键抠图演示源码</td><td><a href="https://mbd.pub/o/bread/YZWbmp5rag==">下载</a></td></tr>
 <tr><td>[C#][winform]segment-anything分割万物部署onnx模型一键抠图演示源码</td><td><a href="https://mbd.pub/o/bread/YZWbmp1waA==">下载</a></td></tr>
 <tr><td>C# winform使用纯opencvsharp部署yolo26-cls图像分类的onnx模型源码</td><td><a href="https://mbd.pub/o/bread/YZWamZpyag==">下载</a></td></tr>
