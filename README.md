@@ -2,6 +2,12 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov26+pyqt5的风力发电机缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZpsaQ==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的蓝莓成熟度检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZprZw==">下载</a></td></tr>
+<tr><td>基于yolov26的桃子成熟度检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面.7z</td><td><a href="https://mbd.pub/o/bread/YZWclZpqaQ==">下载</a></td></tr>
+<tr><td>基于yolov26的樱桃成熟度检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZhtZg==">下载</a></td></tr>
+<tr><td>基于yolov26的矿井人员安全检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZdxZw==">下载</a></td></tr>
+<tr><td>基于yolov26的荔枝成熟度检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZdtag==">下载</a></td></tr>
 <tr><td>基于yolo26+pyqt5实现多个注意力机制的102种花卉识别系统python源码+数据集+训练好模型+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWck5trbA==">下载</a></td></tr>
 <tr><td>基于yolov26+pyqt5的药片胶囊计数系统python源码+pytorch模型+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWck51yaQ==">下载</a></td></tr>
 <tr><td>基于YOLOv11姿态检测的AI健身助手python源码+模型+GUI界面+详细说明文档.7z</td><td><a href="https://mbd.pub/o/bread/YZWck5lwbA==">下载</a></td></tr>
