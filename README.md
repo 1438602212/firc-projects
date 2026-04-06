@@ -2,6 +2,15 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov26+pyqt5的铁路轨道缺陷铁轨设备设施部件缺陷检测系统python源码+pytorch模型+评估指标曲</td><td><a href="https://mbd.pub/o/bread/YZWclZxwag==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的城市道路路面积水检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZ5yaw==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的无人机视角河道水面垃圾检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZ5vaA==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的无人机视角红外图像海上人员救援检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZ5tZg==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的无人机山林人员救援检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZ5sag==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的交警手势识别检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZ1xag==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的红外图像光伏板热斑缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZ1xZA==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的无人机视角车辆检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZxvZg==">下载</a></td></tr>
+<tr><td>基于yolov26+pyqt5的混凝土墙面缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZxtaQ==">下载</a></td></tr>
 <tr><td>基于yolov26+pyqt5的风力发电机缺陷检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZpsaQ==">下载</a></td></tr>
 <tr><td>基于yolov26+pyqt5的蓝莓成熟度检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZprZw==">下载</a></td></tr>
 <tr><td>基于yolov26的桃子成熟度检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面.7z</td><td><a href="https://mbd.pub/o/bread/YZWclZpqaQ==">下载</a></td></tr>
