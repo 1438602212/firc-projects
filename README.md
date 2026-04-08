@@ -2,6 +2,7 @@ python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于yolov26+pyqt5的桃子病害检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclpZxbA==">下载</a></td></tr>
 <tr><td>基于yolov26+pyqt5的铁路轨道缺陷铁轨设备设施部件缺陷检测系统python源码+pytorch模型+评估指标曲</td><td><a href="https://mbd.pub/o/bread/YZWclZxwag==">下载</a></td></tr>
 <tr><td>基于yolov26+pyqt5的城市道路路面积水检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZ5yaw==">下载</a></td></tr>
 <tr><td>基于yolov26+pyqt5的无人机视角河道水面垃圾检测系统python源码+pytorch模型+评估指标曲线+精美GUI界面</td><td><a href="https://mbd.pub/o/bread/YZWclZ5vaA==">下载</a></td></tr>
