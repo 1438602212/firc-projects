@@ -1,3 +1,4 @@
+本项目合集集合python/C#/C++项目源码，如有问题可以联系微信fl176831，添加好友说明来意即可
 python项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
@@ -307,6 +308,9 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于C#winform部署软前景分割DAViD算法的onnx模型实现前景分割源码</td><td><a href="https://mbd.pub/o/bread/YZWcl59uZQ==">下载</a></td></tr>
+<tr><td>基于C#winform部署图像着色DDColor轻量级onnx模型实现图像上色灰度图变彩图源码</td><td><a href="https://mbd.pub/o/bread/YZWcl5xrag==">下载</a></td></tr>
+<tr><td>基于C#winform部署人脸图像修复变清晰codeformer的onnx模型演示源码</td><td><a href="https://mbd.pub/o/bread/YZWclp1wZA==">下载</a></td></tr>
 <tr><td>基于C#winform部署APISR算法的onnx模型实现动漫图片超分辨率无损放大模糊图片变清晰</td><td><a href="https://mbd.pub/o/bread/YZWclZZpaA==">下载</a></td></tr>
 <tr><td>基于C#winform部署ESPCN的onnx模型实现超分辨率图片无损放大模糊图片变清晰</td><td><a href="https://mbd.pub/o/bread/YZWclJxqaA==">下载</a></td></tr>
 <tr><td>基于C#winform部署BEN2的onnx模型实现前景分割源码.7z</td><td><a href="https://mbd.pub/o/bread/YZWclJhwaQ==">下载</a></td></tr>
