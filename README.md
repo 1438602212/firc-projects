@@ -310,6 +310,7 @@ C#项目源码汇总
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>基于C#winform实现yolo26-plate中文车牌检测识别支持12种中文双层颜色车牌文字识别</td><td><a href="https://mbd.pub/o/bread/YZaTkpZwZw==">下载</a></td></tr>
 <tr><td>基于C#winform部署软前景分割DAViD算法的onnx模型实现前景分割源码</td><td><a href="https://mbd.pub/o/bread/YZWcl59uZQ==">下载</a></td></tr>
 <tr><td>基于C#winform部署图像着色DDColor轻量级onnx模型实现图像上色灰度图变彩图源码</td><td><a href="https://mbd.pub/o/bread/YZWcl5xrag==">下载</a></td></tr>
 <tr><td>基于C#winform部署人脸图像修复变清晰codeformer的onnx模型演示源码</td><td><a href="https://mbd.pub/o/bread/YZWclp1wZA==">下载</a></td></tr>
